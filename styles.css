@@ -1,13 +1,13 @@
 body {
-  background-color: #b9b0b0;
+  background-color: w3-black;
   padding:30px;
-  color: black;
+  color: white;
 }
 nav {
   padding:30px;
-  background-color: #e4d1d1;
+  background-color: w3-cyan;
   position:sticky;
   top:0;
   text-shadow: 1px 1x 0 #444;
-  color: black
+  color: white;
 }
