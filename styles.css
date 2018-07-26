@@ -32,13 +32,13 @@ main {
 }
   aside {
   grid-area: aside;
-  padding:30px;
-  background-color:#d5f4e6;
+  padding: 30px;
+  background-color: #d5f4e6;
   color: black;
 }
 article {
   grid-area: article;
-  padding:30px;
+  padding: 30px;
   background-color: #d5f4e6;
   color: black;
 }
