@@ -23,12 +23,12 @@ H1{
   text align: center;
 }
 main {
-  padding top: 15px;
+  padding-top: 15px;
   display: grid;
   grid-template-areas:
     'aside article article'
     'aside footer footer';
-  grid-gap:30px
+  grid-gap:30px;
 }
   aside {
   grid-area: aside;
