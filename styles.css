@@ -1,13 +1,20 @@
 body {
-  background-color: w3-black;
+  background-color: #80ced6;
   padding:30px;
   color: black;
 }
 nav {
   padding:30px;
-  background-color: w3-cyan;
+  background-color: #618685;
   position:sticky;
   top:0;
   text-shadow: 1px 1x 0 #444;
   color: white;
+}
+header {
+  padding: 30px;
+  height: 70%
+    background-image: url('https://images.unsplash.com/photo-1484136199491-6603c473c88b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=38e4bfde467306966adb843da42419df&auto=format&fit=crop&w=375&q=80');
+  background-size: cover;
+  background-attachment: fixed;
 }
