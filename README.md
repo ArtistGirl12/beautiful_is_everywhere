@@ -1,2 +1,2 @@
 # beautiful_is_everywhere
-A way for all types of artists to compile their work, show others, and an inspiring art community.
+A blog on an artists view of art and talk of different types of art, please enjoy!
