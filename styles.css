@@ -1,5 +1,7 @@
-body {background-color: #b9b0b0;
-
+body {
+  background-color: #b9b0b0;
+  padding:30px;
+  color: black;
 }
 nav {
   padding:30px;
@@ -7,4 +9,5 @@ nav {
   position:sticky;
   top:0;
   text-shadow: 1px 1x 0 #444;
+  color: black
 }
